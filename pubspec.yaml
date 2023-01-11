@@ -12,3 +12,8 @@ environment:
 dev_dependencies:
   lints: ^2.0.0
   test: ^1.16.0
+dependencies:
+  http: ^0.13.5
+  nyxx: ^4.4.0
+  nyxx_commands: ^4.3.0
+  nyxx_interactions: ^4.5.0
